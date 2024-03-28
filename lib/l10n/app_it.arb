@@ -1,0 +1,7 @@
+{ 
+    "language": "Lingua: Italian",
+    "helloWorld": "Ciao mondo!",
+    "multiLanguage": "Multi linguaggio",
+    "hello": "Ciao {username}",
+    "goodbye": "Arrivederci {username}"
+ } 

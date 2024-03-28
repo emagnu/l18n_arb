@@ -1,0 +1,32 @@
+{ 
+    "language": "English",
+
+    "helloWorld": "Hello world",
+
+    "multiLanguage": "Multi language",
+
+    "Hello": "Hello {username}",
+    
+    "goodbye": "Goodbye {username}"
+ } 
+
+ { 
+    "language": "English",
+    "@language":{
+        "description": "The template language"
+    },
+    "helloWorld": "Hello world",
+    "@helloWorld":{
+        "description": "A junior programmer greeting"
+    },
+    "multiLanguage": "Multi language",
+    "multiLanguage":{
+        "description": "App titleg"
+    },
+    "Hello": "Hello {username}",
+    
+    "goodbye": "Goodbye {username}"
+    "@goodbye":{
+        "description": "Senior programmer greeting you"
+    }
+ } 

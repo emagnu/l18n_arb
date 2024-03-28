@@ -1,0 +1,7 @@
+{ 
+    "language": "Amelbe: Zulu",
+    "helloWorld": "Orenga mbasse!",
+    "multiLanguage": "Pormen Lengua",
+    "hello": "Orenga {username}",
+    "goodbye": "Mayejo {username}"
+ } 
