@@ -1,0 +1,4 @@
+arb-dir: lib/l10n   			# defines the path of our l10n file where we set our locales
+template-arb-file: app_en.arb 	# This is the app’s template file that we need to edit inside l10n directory inside l10n file 
+import-localization-file: app_localizations.dart  # This is the auto-generated file you find it inside lib/.dart_tool/flutter_gen’ folder
+
